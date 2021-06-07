@@ -15,4 +15,4 @@ Mattar at UC San Diego. Included files are:
 
 - **[Slides.pdf](Slides.pdf)**: Slides that we used in the video we submitted.
 
-- **[Video.md](Video.md)**: Contains a link to our Youtube video for this project
+- **[Video.md](Video.md)**: Contains a link to our Youtube video for this project.
