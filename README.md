@@ -6,8 +6,8 @@ on certain song properties.
 This repo contains our final project submission for COGS 118B, SP21 with Prof.
 Mattar at UC San Diego. Included files are:
 
-- **[Code.ipynb](Code.ipynb)**: Code we wrote for this project. Running the notebook top to bottom
-  should display all the results we used.
+- **[Code.ipynb](Code.ipynb)**: Our code for this project. Running the notebook top to bottom
+  should display all the results we obtained.
 
 - **[Data.csv](Data.csv)**: Contains the dataset we used for this project.
 
